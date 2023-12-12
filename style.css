@@ -1,0 +1,137 @@
+body{
+    width: 100%;
+    height: 240vh;
+}
+.container{
+    width: 100%;
+    height: 150vh;
+    background-color: #2D2641;
+}
+.childone{
+    display: flex;
+    justify-content: space-around;
+    background-color: #FFFFFF; 
+}
+.hone{
+    color: #2C2830;
+    font-family: c;
+}
+.insu{
+    padding-left: 90px;
+    transform: translateY(52px);
+}
+p{color: #837D88;
+    margin-top: 28px;
+}
+.pi{
+    width: 420px;
+    color: #FFFFFF;
+}
+.tire{
+    padding-bottom: 50px;
+}
+ .gro{
+    padding-left: 230px;
+    transform: translateY(60px);
+ }
+button{
+    color:#2C2830;
+    width: 140px;
+    height: 30px;
+    margin-top: 24px;
+}
+.childtwo {
+display: block;
+margin: 200px;
+}
+.insure{
+    transform: translateY(170px);
+    padding-left: 235px;
+}
+.childtwo h1{
+color: #FFFFFF;
+width: 300px;
+}
+.famphoto{
+    display: flex;
+    margin-left: 650px;
+    transform: translateY(-500px);
+    height: 800px;
+}
+.containertwo{
+    padding-top: 150px;
+    height: 100vh;
+    
+}
+.were{
+    padding-top: 100px;
+    padding-left: 157px;
+}
+.three{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+.texts{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    padding-left: 160px;
+    transform: translateX(-40px); 
+}
+.pone{
+    padding-right: 100px;
+}
+.ptwo{
+    transform: translateX(40px);
+}
+.pthree{
+    transform: translateX(180px);
+}
+.containerthree{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    height: 25vh;
+    background-color: #2D2641;
+    transform: translateX(270px);  
+}
+.find{
+    color: #FFFFFF;
+    padding-top: 50px;
+}
+.howwe{
+    transform: translateY(50px);
+}
+.icons{
+    justify-items:end ;
+    padding-left: 1000px;
+    transform: translateY(-51px);
+}
+.ins{ 
+    transform: translateY(-100px);
+    transform: translateX(270px);
+    padding-top: 150px;
+}
+.gather{
+    display: flex;
+    justify-content: space-around;
+}
+.all{
+    transform: translateX(105px);
+}
+.fiveschild{
+    padding-left: 480px;
+    transform: translateY(-170px);
+}
+.co{
+    padding-left: 800px;
+    transform: translateY(-340px);
+}
+.ot{
+    padding-left: 1100px;
+    transform: translateY(-480px);
+}
+.others{
+    transform: translateX(-40px);
+}
